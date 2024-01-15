@@ -9,6 +9,7 @@ body{
   display:flex;
   justify-content: center;
   align-items: center;
+  height: 100vh;
 }
 .main_body{
   position: relative;
@@ -16,9 +17,10 @@ body{
   border-top: solid;
   box-shadow: black 17px 19px ;
   border-radius: 5%;
-  margin-top: 115px;
   width: 365px;
   height: 505px;
+  margin-left: 10px;
+  margin-right: 10px;
   background: white;
 }
 .img1{
