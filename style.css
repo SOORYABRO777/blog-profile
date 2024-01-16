@@ -13,9 +13,7 @@ body{
 }
 .main_body{
   position: relative;
-  border-left: solid;
-  border-top: solid;
-  box-shadow: black 17px 19px ;
+  border: solid;
   border-radius: 5%;
   width: 365px;
   height: 505px;
